@@ -1,0 +1,19 @@
+{
+  "name": "proyectofinal-gabrielescarate",
+  "version": "1.0.0",
+  "description": "PROFESORA BUENAS TARDES FALTA AGREGAR UNOS CSS PARA QUE TENGA MEJOR VISTA\r PERO VOY SUBIENDO MI AVANCE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel3107/Proyectofinal-GabrielEscarate.git"
+  },
+  "author": "Gabriel Escarate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel3107/Proyectofinal-GabrielEscarate/issues"
+  },
+  "homepage": "https://github.com/gabriel3107/Proyectofinal-GabrielEscarate#readme"
+}

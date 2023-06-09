@@ -1,36 +1,36 @@
 [
     {
-      "precio": 500,
+      "precio": 13.00,
       "id": 1,
       "title": "Milanesa con Papas",
       "thumbnailUrl": "./asset/img/Milnesaconpapas.jpeg"
     },
     {
-      "precio": 300,
+      "precio": 11.00,
       "id": 2,
       "title": "Caldo de Gallina",
       "thumbnailUrl": "./asset/img/caldodegallina.jpeg"
     },
     {
-      "precio": 100,
+      "precio": 18.00,
       "id": 3,
       "title": "Cabrito con Tamal",
       "thumbnailUrl": "./asset/img/cabritocontamal.png"
     },
     {
-      "precio": 50,
+      "precio": 12.00,
       "id": 4,
       "title": "Causa con Arroz",
       "thumbnailUrl": "./asset/img/causaconarroz.png"
     },
     {
-      "precio": 10,
+      "precio": 10.00,
       "id": 5,
       "title": "Lomo Saltado",
       "thumbnailUrl": "./asset/img/lomosaltado.jpg"
     },
     {
-      "precio": 150,
+      "precio": 15.00,
       "id": 6,
       "title": "Arroz con Pollo",
       "thumbnailUrl": "./asset/img/arrozconpollo.jpeg"
