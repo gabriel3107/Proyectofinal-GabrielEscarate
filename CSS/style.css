@@ -18,3 +18,19 @@ body{
     color: black;
     text-align: center;
   }
+
+
+/*login*/
+  h2 {
+    text-align: center;
+  }
+  
+  input, button {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  button {
+    width: 50%;
+  }
+  
